@@ -6,3 +6,4 @@ The project that we are doing is about how to create a functional arm robot usin
 For the detail on how we make it you may download and read our report that I have already attached within this repository.
 
 ![](armrobo.png)
+![](circuit.jpg)
